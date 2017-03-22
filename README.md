@@ -14,7 +14,7 @@ A very simple javascript bot meant to be used as a base template to create more 
 
 ^ (certificates should be obtained from your internal PKI infrastructure, or refer to Certificate Generator for Windows PDF Instructions for more information)
 
-## Brief
+## Instructions
 
 1) Run `npm install` to install all the node modules dependencies.
 
