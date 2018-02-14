@@ -15,7 +15,7 @@ let setAuthRequestHeaders = () => {
   authRequestWithTokens = request.defaults({
     cert: fs.readFileSync(config.CERT_FILE_PATH),
     key: fs.readFileSync(config.CERT_KEY_FILE_PATH),
-    passphrase: config.CERT_PASSPHRASE
+    passphrase: config.CERT_PASSPHRASE,
     headers: {
       sessionToken: config.SESSION_TOKEN,
       keyManagerToken: config.KM_TOKEN,
