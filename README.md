@@ -1,5 +1,7 @@
 # Bolt Javascript Bot for Symphony
 
+[![FINOS - Archived](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-archived.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Archived)
+
 A very simple javascript bot meant to be used as a base template to create more complicated chat bots on Symphony.
 
 ## Requirements
